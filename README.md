@@ -1,6 +1,5 @@
 ###  👋 Hi, I'm Bryan this is my public github, it acts mostly as a Portfolio of previous and current projects
-Public Github:<br />
-[![Wizards's GitHub stats](https://github-readme-stats.vercel.app/api?username=BryanDemeWhite&show_icons=true&theme=dracula)](https://github.com/BryanDemeWhite) 
+
 
 Personal/Hobby Github: <br />
 [![Wizards's GitHub stats](https://github-readme-stats.vercel.app/api?username=VRCWizard&show_icons=true&theme=dracula)](https://github.com/VRCWizard/TTS-Voice-Wizard) 
